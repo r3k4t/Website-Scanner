@@ -13,7 +13,7 @@ This  program is build on python.This python project can help to get website vul
 ### Installation ###
 
 <ul>
-<li>Python<li>
+<li>Python</li>
 <li>Figlet</li>
 <li>Dnsutils</li>
 <li>Bind9</li>
@@ -73,7 +73,7 @@ To portsweep is to scan multiple hosts for a specific listening port. The latter
 
 ### Whois lookup ###
 
-WHOIS (pronounced as the phrase "who is") is a query and response protocol that is widely used for querying databases that store the registered users or assignees of an Internet resource, such as a domain name, an IP address block or an autonomous system, but is also used for a wider range of other information. The protocol stores and delivers database content in a human-readable format.[1] The current iteration of the WHOIS protocol was drafted by the Internet Society, and is documented in RFC 3912.
+WHOIS (pronounced as the phrase "who is") is a query and response protocol that is widely used for querying databases that store the registered users or assignees of an Internet resource, such as a domain name, an IP address block or an autonomous system, but is also used for a wider range of other information. The protocol stores and delivers database content in a human-readable format. The current iteration of the WHOIS protocol was drafted by the Internet Society, and is documented in RFC 3912.
 
 ### Geo-IP ###
 
