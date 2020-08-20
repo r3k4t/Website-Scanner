@@ -17,6 +17,7 @@ This  program is build on python.This python project can help to get website vul
 <li>Figlet</li>
 <li>Dnsutils</li>
 <li>Bind9</li>
+<li>Traceroute</li>
 <li>Nmap</li>
 </ul>
 
